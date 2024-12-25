@@ -1,7 +1,10 @@
 /* Carousel */
-
+.carousel {
+  width: 75vw;
+  margin: 0 auto;
+}
 .carousel-inner {
-  height: 500px;
+  height: 25vw;
   padding-bottom: 25%; /* this sets carousel aspect ratio (4:1 here) */
 }
 
